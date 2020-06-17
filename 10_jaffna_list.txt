@@ -1,0 +1,364 @@
+PARTY: Ahila Ilankai Thamil Congress
+1 Kanagaradnam Sugash
+2 Gajenthirakumar Gankesar Ponnambalam
+3 Gnanakuneshwary Kamalachchelvam
+4 Nadarajar Kandeepan
+5 Marimuththu Kanapathppillai
+6 Joheswaran Jeyakumar
+7 Vasuki Suthakar
+8 Vishvalingam Manivannan
+9 Sellappar Pathmanathan
+10 Selvarasa Gajenthiran
+PARTY: Our Power of People Party
+1 Rasaiya Krishnamohan
+2 Eliyas John Esayas
+3 Nadarajah Thavaraja
+4 VijayaratnaVijayadasa
+5 Velu Jayanthan
+6 Saroja Vijayaratna
+7 Siyambalagaha Gedara Dinesh Wilfedkumar
+8 Siripalage Calista Kamini
+9 Seyon Wasanthan
+10 Herath Mudiyansalage Gayani Nandasiri
+PARTY: Ilankai Tamil Arasu Kadchi
+1 Abiraham Sumanthiran Mathiyaparanan
+2 Emmanuel Arnold
+3 Raviraj Sasikala
+4 Easwarapatham Saravanapavan
+5 Kurusuwamy Surendran
+6 Tharumalingam Siththarththan
+7 Balachchandran Kajatheepan
+8 Mavai Somasundaram Senathirasa
+9 Vethnayaham Thabenthiran
+10 Sivagnanam Sritharan
+PARTY: Eelavar Democratic Front
+1 Arulappu Egbird Rasanayagam
+2 Kathiresh Antony Ajanthas
+3 Kumarasamy Sathasivamoorthy
+4 Jeyabalan Yalsan
+5 Jemson Kabilda
+6 Joseph Mariyanayagam
+7 PoologathasanTharjini
+8 Sivaguru Murugathas
+9 Sivabalan Mathivathanan
+10 Selvarasa Jasmin Rejikumar
+PARTY: Eelam People’s Democratic Party
+1 Iyaththurai Srirangeswaran
+2 Kanapathippillai Kandeeparajah
+3 Kanapathippillai Sivapatham
+4 KularatnamVicknesh
+5 Douglas Devananda
+6 Maruthaiyinar Jeyakanthan
+7 Mudiyappu Remidius
+8 Vaithiyanathan Thavanathan
+9 Velichchor Anton Johnson
+10 Sritharani Nickson
+PARTY: United National Party
+1 Ameer Hamsha Mohammad Ashar
+2 Rasaraththinam Gowrythasan
+3 Rasaratnam Srithamothararasa
+4 Kandiah Paramanantharajah
+5 Kumaru Sarvananthan
+6 Muttucoomaraswamy Neruparan
+7 Varatharajah Thanagobi
+8 Vijayakala Maheswaran
+9 Vinayagamoorthy Sakathevan
+10 Sinniah Mahendran
+PARTY: United Socialist Party
+1 Arumugam Devadharshan
+2 N.A. Jeyarani
+3 M.T.M. Mazahim
+4 Goby Pratheepa John Rajakumar
+5 Jesurasa Marin Jenson
+6 Thanabalasingam Suventhira Kumar
+7 Thuraisingham Thushanttar
+8 Sasitha Nayana Ranasingha
+9 Subramaniam Nagularajah
+10 Subramaniam Vigneswaran
+PARTY: Jana Setha Peramuna
+1 Antony Kajatheepan
+2 Kokulathas Muralitharan
+3 Josheph Subhasani
+4 Nilantha Pushpakumara
+5 Marimuththu Malani
+6 Marimuththu Selvarajah
+7 Mohanthiran Rishikanth
+8 Velu Krishnasami
+9 Sivalingam Rajendran
+10 Sumith Kumara
+PARTY: Jathika Jana Balawegaya
+1 Arutsothy Sivayogawathy
+2 Arunthavarasa Thaneesh
+3 Ramalingam Chandrasekar
+4 Elayathambi Kanesapillai
+5 Karuppaiah Fransis Joseph
+6 Krishnapillai Sivananthan
+7 Gnanamuththu Anton Chares
+8 Thevarasa Keethalayan
+9 Periyasami Srikandanesan
+10 Sahul Hameed Maaheer
+PARTY: Thamil Makkal Thesiya Kuttani
+1 Ananthi Sasitharan
+2 Arunthavapalan Kandiah
+3 Arumugam Kandiah Premachchandran
+4 Kandiah Raththinakumar
+5 Kanagalingam Sivajilingam
+6 Canagasabapathy Vishwalingam Vickneshwaran
+7 Nallathambi Srikantha
+8 Meera Arulnesan
+9 Singabahu Sivakumar
+10 Sitparan Thavachchelvam
+PARTY: Tamil United Liberation Front
+1 Aravinthan Sanmukarasa
+2 Ananthasankari Veerasingam
+3 Ramaiya Sangaiya
+4 Kasippillai Kulasekaram
+5 Thampaiya Rasalingam
+6 Thampaiya Thirungnasampanthar
+7 Mathiyaparanam Mayooran
+8 Vivekananthan Ainkaran
+9 Sankaran Sukumar
+10 Seevarathnam Gopithasan
+PARTY: New Democratic Front
+1 Ratnarajah Kajrithkumar
+2 Rasathurai Nathees
+3 Hanaharthnam Vijay
+4 Krishnapillai Theepahanthan
+5 Jegatheeswaran Subhahanth
+6 Thanihasalam Piruthivi
+7 Parameswaran Nishanthan
+8 Radha Hinthushan
+9 Saravanapavanathan Senthan
+10 Suthaharan Rajithakumar
+PARTY: Frontline Socialist Party
+1 Arumukam Veerarajah
+2 Jude Kirushantha Silva Pillai
+3 Nadaraja Joseph Pirashanth
+4 Balachchanthiran Sivanesachchelvi
+5 Munasingh Aarachchige Jegath Priyatharsana
+6 Maryranjini Nirmalanathan
+7 Vijayaladch umi Pathiyasihamani
+8 Chanthirakumar Kapilan
+9 Susaipillai William Nepolian
+10 Selrathnam Arjeen
+PARTY: Democratic Left Front
+1 Ajhvath Mohamad Janun
+2 Uthaya John Rusvelt
+3 Umamakeswaran Theepika
+4 Kandaiya Kantharupan
+5 Gopalakrishnan Balakrishnan
+6 David Navaratna Raj
+7 Thampiththurai Rajeev
+8 Marimuththu Parameswaran
+9 Jokendran Kajan
+10 Sri Velmurugan Nirmalathas
+PARTY: Lanka Sama Samaja Party
+1 Nadesh Jeyarupan
+2 Pathmanathan Partheepan
+3 Veerappillai Veerakumar
+4 Velautham Akilan
+5 Sarveshwaran Uyanthini
+6 Sinnathambi Danistan
+7 Sivanu Sritharan
+8 Sivasubramaniyam Partheepan
+9 Subramaniyam Somalojan
+10 Selvarathinam Satheeswaran
+PARTY: Sri Lanka Freedom Party
+1 Angajan Ramanathan
+2 Arulanandam Arun
+3 Kandiah Thiagalingam
+4 Joseph Francis
+5 Paranirupasingham Varatharajasingham
+6 Bawadharani Rajasingham
+7 Balakrishnan Mukunthan
+8 Stanislaus Celestine
+9 Sangarappillai Pathmarajah
+10 Sivalingam Ketheeswaran
+PARTY: Samagi Jana Balawegaya
+1 Akilathas Sivakkolunthu
+2 Alagasuntharam Kirubakaran
+3 Umachandra Pragash
+4 Kasiyan Jeyarajan
+5 Nagendram Thushanthan
+6 Mariyaseelan Mariyathas
+7 Muniyandi Palaniyamma Nagarai
+8 Vanniyasingam Pirabakaran
+9 Victor Anthony Williams
+10 Velautham Ganeswaran
+PARTY: Socialist Equality Party
+1 AppaiahThayakaran
+2 Iyampillai Ladsumanan
+3 Rajaradnam Rajavel
+4 Rasaradnam Thirugnanavel
+5 Rasarathnam Balagowry
+6 Rasenthram Sutharsan
+7 Paramu Thirugnanasampanthar
+8 Muththulingam Murugananthan
+9 Murugananthan Sukirtha
+10 Loganathan Gnanavel
+PARTY: Sinhaladeepa Jathika Peramuna
+1 Abeysekara Martin Appuhami Chandrasiri
+2 Inthunithi Jebanesan
+3 Kalukumara Malala Bandaranayakalage Dammika Bandara Niyarepola
+4 Kumari Sakunthala Hewakotambage
+5 Kuhatheesan Leeladevi
+6 Ganga Brahmana Mudiyanselage Tikiri Banda
+7 Chandravathi Maharasa
+8 Jayakodi Arachchilage Podirathna
+9 Don Thusitha Dayalal Weerakoon
+10 Mohomad Husain Mohomad Ayub Khan
+PARTY: Independent Group 1
+1 R. Elilmaran
+2 A. Guruhulan
+3 K. Ajithkumar
+4 T. Rajiththan
+5 W. M. Janansan
+6 P. Alvappillai
+7 B. Emildan
+8 V. Vinojan
+9 Satkunananthathevy. A
+10 Soosaipillai Francis Xavior Selvanayagam
+PARTY: Independent Group 2
+1 Arumugam Ragupathi
+2 Karthikesu Kathirkamanathan
+3 Kasipillai Senthivelan
+4 Kiddinapillai Rasathurai
+5 Thambirasa Yutharasa
+6 Palani Kuhaneswaran
+7 Pama Udayakumar
+8 Manikkam Lohasingam
+9 Murukan Rasaraththinam
+10 Singarasa Sriruban
+PARTY: Independent Group 3
+1 Ariharamohanathas Kiroshan
+2 Thangarasa Thusitharan
+3 Thevarasa Piramilan
+4 Parameshwaran Anusan
+5 Mariyathas Nikshan
+6 Mohan Thanesh
+7 Yohapirakasam Piyatharshan
+8 Santhakumar Thivakaran
+9 Sutharshini Ravichandran
+10 Suntharalingam Selvakumar
+PARTY: Independent Group 4
+1 Arumaiththurai Reniberd
+2 Ponnuthurai Thankathurai
+3 Muthaiah Soorious
+4 Veeravaku Vinotharas
+5 Sivakadadsan Sivanesan
+6 Sutharsing Vijiyakanth
+7 Subramaniam Kajendrakumar
+8 Sureshkumar Arjaana
+9 Soosainathan Cristijasan
+10 Selvaratnam Kajendran
+PARTY: Independent Group 5
+1 Ariyanayagam Ranjith
+2 Kandasamy Sivayoganathan
+3 Chandrakumar Murugesu
+4 Jeyasutha Uthayasangar
+5 Thanabala Kiddinan
+6 Thirunavukkarasu Sivathasan
+7 Paramasami Thayaparan
+8 Muththaiah Subramaniam
+9 Sabapathy Sinnaiah
+10 Selliah Kailayanathan
+PARTY: Independent Group 6
+1 Aparakke Pungnananda Thero
+2 AbithaSapumal Senanayake
+3 Anamaduwe Sirinanda Thero
+4 Arachchi Appuhamillage Don Peter Karunaratne
+5 Kulasuriya Arachchillage Pathmini Chandrani Swarnalatha
+6 Korala MudiyanselageThilakaratne
+7 Muhammed Anwar Muhammed Kamal
+8 Vaihenage Kanthilatha
+9 Senadeera Pathirannahelage Ayesha Nuwanthi
+10 Senadeera Pathirannahelage Lakshika Dilrukshi Senadeera
+PARTY: Independent Group 7
+1 Karuppaiah Segar
+2 Kunasegaram Selvasegar
+3 Juvanish Vimalaraj
+4 Nadesu Satheesan
+5 Ponnaiah Suresh Kumar
+6 Ledsuman Barathythasan
+7 Veerasami Nihal Vickneswara
+8 Sinnaiah Annamalai
+9 Selvarasa Kannan
+10 SelvarasaVasanthakumari
+PARTY: Independent Group 8
+1 Ainkaranesan Ponnuthurai
+2 Kanapathippillai Ketheeswaranathan
+3 Jeevaratnam Jeyathees
+4 Thevakumar Mithusan
+5 Nagarasa Partheepan
+6 Nimalini Waldan
+7 Balasuntharam Kasinathan
+8 Malar Sinnaiah
+9 Shanmugam Thayalan
+10 Somanathar Sivanesan
+PARTY: Independent Group 9
+1 Abdul Majeedu Kamarudeen
+2 Abdul Salam Mohomed Rifai Careem
+3 Udumalebbe Muhammadhu Faleel
+4 Mammadu Hameedu Unais
+5 Mohammed Ibrahim Mohammed Muhajith
+6 Mohamed Meera Sahibu Mohamed Thowfeek
+7 Ranjithamalar Piraisanthiran
+8 Shanmugam Siriskumar
+9 Singarathnam Ranjana
+10 Selvanayagam Nesan
+PARTY: Independent Group 10
+1 Arumugam Kanaganayagam
+2 Uruthiramoorthy Senthuran
+3 Thanuja Kanaganayagam
+4 Thuraisamy Kanagasingam
+5 Naguleeswaran Thasankan
+6 Balasingam Mathees
+7 Markandu Rasenthiram
+8 Murugesu Puvaneswaran
+9 Murugan Kumaravel
+10 Vickneswary Rasaiya
+PARTY: Independent Group 11
+1 Arulanantham Anojan
+2 Kanesamoorthy Piratheeparaj
+3 Kirushnan Veeravaku Thevar
+4 Tharmalingam Yogaparan
+5 Paramsothyrasa Vavikaran
+6 Baleswaran Pirasath
+7 Manikkam Surenthiran
+8 Velautham Mahenthirarasa
+9 SebastiyampillaiVimalraj
+10 Solamon Singarasa Jayanthan
+PARTY: Independent Group 12
+1 Consanvesh Ayanthan
+2 Jeganathan Kapilraj
+3 David Shanthakumar Nevil Thevaseyan
+4 Thevabalan Subeshan
+5 Nallathambi Kanagalingam
+6 Nachchiyapillai Kuganeshwaran
+7 Murukeshan Selvalingam
+8 Sadasivam Arumaithurai
+9 Sinnathambi Sambasivam
+10 Selvachandran Laxshana
+PARTY: Independent Group 13
+1 Eliyas Judepatrick
+2 Pathmanathan Lingeshwaran
+3 Mathymugarasa Vijayakanth
+4 Mathymugarasa Vijayalaxsumy
+5 Yoganathan Pirasanth
+6 Vasanthanathan Sivanathan
+7 Vijayakanth Usha
+8 Sivakadadchakurukkal Paheerathan
+9 Sellaiya Vijayaratnam
+10 Selvarasa Sivapriyan
+PARTY: Independent Group 14
+1 Augustin Macdonald
+2 Thirunavukarasu Arasaratnam
+3 Poologasingam Christy Sutharasan
+4 Poologasingam Jerusan
+5 YoganathanYogeshwaran
+6 Sathiyaseelan Sasikaran
+7 Sivakolunthu Mahendran
+8 Sebamalai Kannan
+9 Sellathurai Natkunam
+10 Sellaiah Nagaselvam
+

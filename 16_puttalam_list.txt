@@ -1,0 +1,385 @@
+PARTY: Our Power of People Party
+1 Indrasiri Senarathna
+2 Kuruwalana Arachchige Ayendra Nilanga Prabath
+3 Gorakanage Kelum Jagath Tharanga Peiris
+4 Nishshanka Prathirajage Vijitha Chandra Piyathilaka
+5 Madurapperuma Arachchige Rasika Pemasiri
+6 Mihindukulasuriya Sajith Hudson Perera
+7 Muthukuda Arachchige Janaka
+8 Waduthanthrige Akila Udayanga Fernando
+9 Warnakulasuriya Mahalekamge Suneth Priyankara Fernando
+10 Wijesingha Mudiyanselage Dinesh Rangana Wijesinghe
+11 Hapu Arachchige Don Sidney Rohan
+PARTY: United National Party
+1 Ahamed Jalal Mohamed Tharik
+2 R. B. Palitha Range Bandara
+3 Kasadoruge Fracksid Sarath Wickramarathna
+4 Chales Edirilla Koraya
+5 Mellawa Thanthrige Chamindra Joy Prasad Perera
+6 Muththu Nadar Soyambu Ramachandran
+7 Mohamed Nisar Mohamed Nasmi
+8 Rankothge Kumara Samansiri
+9 Warnakulasooriya Steven Fernando
+10 Samarathunga Aarachchige Don Treshan Sajindra
+11 Sesathpura Devage Buddhika Madushantha Sesathpura
+PARTY: Jana Setha Peramuna
+1 Edmon Jayathilake
+2 A. A. D. Kalana Chandra
+3 Gamini Wickramasinghe
+4 Chaminda Kumara
+5 Janaka Bandara Abeysinghe
+6 Nihal Santha warnasooriya
+7 Prasanna Sandaruwan Perera
+8 Shanaka Dulanjana Herath
+9 Sirimannage Sahan Chinthaka
+10 Sunimal Nishantha
+11 Hewayange Dayarathne
+PARTY: Jathika Jana Balawegaya
+1 Abeyrathna Herath Mudiyanselage Piyasena
+2 mihami Mudiyanselage Chandradasa
+3 Jerald Roy Merinas Roddrigo
+4 Thotawaththa Badalge Don Antony Kumar
+5 Nimal Pathirana
+6 Palitha Channa Wijesinghe
+7 Mohotti Mudiyanselage Nimal Ariyarathne
+8 Mohomed Ismail Mohomed Riyas
+9 Warnakulasooriya Ajith Gihan Fernando
+10 Wijesekara Pathiranage Sagara Kumara
+11 Sivasubramaniyam Shriram
+PARTY: National Peoples Party
+1 Alexander Vilose Shiraj Priyashantha Vilose
+2 Thelge Nimesh Prageeth Peiris
+3 Don Dheeraka Thushantha Sahabandu
+4 Panakuttige Hiruni Malsha
+5 Maduradipathi Muththalage Asanka Dinesh
+6 Maduradipathi Muththalage Yashodha Sulochani
+7 Munithungage Tharindu Nishan Chandima Silva
+8 Rathugamage Mahesh Suranga Fernando
+9 Liyanage Lakshitha Prasad Dananjaya Silva
+10 Warnakulasooriya Chamith Maduranga Croos
+11 Warnakulasooriya Sandini Wasana
+PARTY: Frontline Socialist Party
+1 Bastian Koralalage Sunny Antony Rodrigo
+2 Munisamy Sangeeth Dilan
+3 Ranpatidewage Eranda Sanjeewa
+4 Wagapedige Pradeep Chandra Kumar
+5 Wanninayake Mudiyanselage Jayathilake Wanninayake
+6 Warnakulasooriya Ponnakuttige Peter Merian Pemsiri Fernando
+7 Warnakulasooriya Priyantha Fernando
+8 Warnakulasooriya Basil Gamini Fernando
+9 Wickramage Nirosha Kalyani Wickramage
+10 Senadeera Pathirennehelage Jude Luxman Appuhami
+11 Hewapelage Susantha Sujeewa Wijesinghe
+PARTY: Democratic United National Front
+1 Kaludurage Nirodha Priyanga Fernando
+2 Kariyawasm Haputhanthri Gamage Chandimal Thushantha
+3 Kehel Baddage Sunny Fernando
+4 Jayabahu Mudiyanselage Ganidu Asela Siriwardana
+5 Jayasuriya Alankarage Nalinda Priyashantha Perera
+6 Jacop Mahes Chaminda
+7 Thangavelu Shivakumaran
+8 Pitiduma Gamage Thilanka Upashantha
+9 Balasooriya Mudiyanselage Jagath Balasooriya
+10 Mohomed Shahabdeen Mohomed Razak
+11 Warnakulasuriya Bernard Roy Luxman Fernando
+PARTY: Maubima Janatha Pakshaya
+1 Abdul Offar Muharis
+2 Abdul Gafoor Mohamed Rimzan
+3 Ibrahim Mohamed Naseer
+4 Naina Mohammad Mohammad Faisal
+5 Fawsul Ameer Harun
+6 Mohammadu Thahir Muhammadu Iqbal
+7 Mohamed Ahamed Saheem
+8 Mohamed Naheem Alraj
+9 Mohamed Salman Mohamed Safwan
+10 Mohamed Siyam Marikkar
+11 Sajahan Mohamed Akramul Ajmal
+PARTY: Muslim National Alliance
+1 Abdul Ali Sabri Mohamed Raheem
+2 Abdul Offoor Alikhan
+3 Abdul Baiz Kamardeen
+4 Abdul Rassak Mohamed Musammil
+5 Abdul Sameen Mohamed Rilwan
+6 Abdul Hameed Fairoos
+7 Abdeen Ehiya Seinul
+8 Nainathambi Marikkar Mohamed Thahir
+9 Mohamed Farook Mohamed Ramees
+10 Sahul Hameed Mohamed Niyas
+11 Sulaiman Mohamed Shifai
+PARTY: Sri Lanka Podujana Peramuna
+1 Abdul Hasan Muhammadu Riyas
+2 Arundika Fernando
+3 Ashoka Priyantha
+4 Anton Dayashritha Thisera
+5 L. K. Jagath Priyankara
+6 Udakankanamage Don Palitha Rohan Preethi Viraj
+7 Chinthaka Amal Mayadunna
+8 Trevin Fernando
+9 Nilantha Fernando
+10 Piyankara Jayarathne
+11 Sanath Nishantha
+PARTY: Socialist Party of Sri Lanka
+1 A. R. Weerasinghe
+2 Kandasami Nethradevi
+3 D. M. Dhevika Priyadarshani
+4 D. A. Nishantha Priyalal
+5 Dissanayake Mudiyanselage Mihiranga
+6 Narayana Koushalya
+7 P. Praveena Dhevi
+8 Murugan Muththusami
+9 Lalith Kumarasiri
+10 Vincenet Somarathna
+11 Selvaraj Dhushanthan
+PARTY: Samagi Jana Balawegaya
+1 Appuhami Makevita Arachchige Don Hector Haijinas
+2 Abdul Careem Salahudeen
+3 Abeyrathna Herath Mudiyanselage Tikiri Sampath Bandara Herath
+4 Abeysekara Walimuni Mendis Priyanjith Hemantha Sisira Kumara
+5 Ashoka Wadigamangawa
+6 Jeyanandasing Kokilanathsing
+7 Dasanayake Mudiyanselage Rajakaruna
+8 Nanayakkara Warnakula Patabendige Niroshan Eardley Priyantha Perera
+9 Biyanwilage Antony Victor Perera
+10 Mihindukulasooriya Kingslilal Fernando
+11 Mihindukulasooriya Weebeddage Janath Chithral Fernando
+PARTY: Sinhaladeepa Jathika Peramuna
+1 Adikari Mudiyanselage Gayan Vajira Bandara Adikari
+2 Aramadura Chanaka Madushan Silva
+3 Alagiyawanna Mohottalage Saman Priyantha
+4 Odirisgew Dinush Ithake Sanjewa Fonseka
+5 Mahara Hetti Arachchige Anula Kusumlatha
+6 Mingappulige Thushara Sanjeewa
+7 Ranathunga Mudiyanselage Nadeera Chandimal Bandara Ranathunga
+8 Rathnayake Mudiyanselage Imesha Dilrukshi Rathnayake
+9 Wadigasinghage Prageeth Sameera Chandima Fernando
+10 Wickramasinghe Arachchige Sumudu Rangana
+11 Wickramasinghe Arachchige Haridu Gandika Wickramasinghe
+PARTY: Independent Group 1
+1 Gamage Rohitha Priyadarsha
+2 Mahamuhandiramge Joseph Ranjan Perera
+3 Warnakulasooriya Anura Dewapriya Fernando
+4 Warnakulasooriya Aruna Kithsiri Fernando
+5 Warnakulasooriya Gayani Sudeepika Fernando
+6 Warnakulasuriya Madushanka Pushpakumar Fernando
+7 Warnakulasooriya Mahamalage Nevilbernard Perera
+8 Warnakulasooriya Mahalekamge Antony Calistas Fernando
+9 Warnakulasooriya Leo Herbert Ranjith Fernando
+10 Warnakulasooriya Manuvel Fernando
+11 Samarathunga Arachchilage Don Nevil Shamal Ranjith Samarathunga
+PARTY: Independent Group 2
+1 Abdul Cader Haldeen Mohomed Nilamdeen
+2 Kachchakaduge Jerard Somasiri Fernando
+3 Karave Thanthrige Lahiru Malinga Perera
+4 Kurugamage Ajith Chandana Perera
+5 Nadeera Tharanga Rathnayake
+6 Pitiduva Gamage Muditha Lasantha Gamage
+7 Poruthotage Sunil Fernando
+8 Ranasinghe Aarachchige Sanjeewa Prasad Ranasinghe
+9 Wanninayake Mudiyanselage Gamini Sarath Kumara
+10 Warnakulasooriya Ranwalage Susitha Mahasen Fernando
+11 Hatharasinghe Mohottalage Udhara Madhusanka Perera
+PARTY: Independent Group 3
+1 R. D. Sudath Premalal
+2 Ignesious Sinduja
+3 L. G. H. Gamini Silva
+4 S. N. U. Dhammika
+5 S. M. Chandradasa
+6 A. H. M Athula Bandara
+7 A. K.Wasantha Weerasiri
+8 K. A. Rooban Chandrasena
+9 J. A. Ranil Jayawardhane
+10 W. H. M. Sandun Lakmal Wijesingha
+11 B. M. R. B. Balasuriya
+PARTY: Independent Group 4
+1 Kachchakaduge Viraj Dilshan
+2 Kanahara Aarachchige Don Sampath Sudarshan Aariyarathna
+3 Kapila Parakramabahu Appuhami
+4 Chakravarthige Madurangi Fernando
+5 Maha Adikari Mudalige Don Primal Dickshan Roy Appuhami
+6 Meththasingha Aarachchige Janka Pushpakumara
+7 Ran Arumage Janaka Manju Sri Senarathne
+8 Liyanage Priyantha Premalal Perera
+9 Sanmugam Sasikumar
+10 Sooriya Hetti Adikari Mudiyanselage Jayantha Padmasiri
+11 Sooriya Hetti Adikari Mudiyanselage Sugath Kumudu
+PARTY: Independent Group 5
+1 Udugampalage Champika Nalin Nisantha Fernando
+2 Obadawaththage Chanaka Dusmantha Fernando
+3 Koswaththa Muhamdiramge Sudarsha Dulaj Peter Thamel
+4 Maheepala Mudalige Don Scalustus Shantha
+5 Randeni Aarachchilage Don Sudath Kumudu Kumara
+6 Warnakulasooriya Aarachchige Noel Nelson Fernando
+7 Warnakulasooriya Imal Shriyam Danushka Dabarera
+8 Warnakulasooriya Lesli Fernando
+9 Warnakulasooriya Vinisius Ranjith Thamel
+10 Warnakulasooriya Sadun Krisantha
+11 Herath Mudiyanselage Karunaratna
+PARTY: Independent Group 6
+1 Abduk Kadeer Muhammadu Hazeeb
+2 Abdul Majeeth Mohamed Asan Mohideen
+3 Ahumudu Kabeer Muhammadu Rasheeth
+4 Jamaldeen Mohamed Rifas
+5 Jawardeen Muhammadu Bakeer
+6 Junaideen Jamseen
+7 Panikkar Ibrahim Sajahan
+8 Muhammadu Hanifa Mohammadu Azaam
+9 Mohamed Casim Mohamed Lareef
+10 Mohamed Hussein Mohamed Manas
+11 Sahardeen Muhammadu Nuvaf
+PARTY: Independent Group 7
+1 Abdul Nizar Muhammadu Nizthar
+2 Abdullah Mohamed Ramees
+3 Abuhanifa Abdul Bakir
+4 Jamaldeen Muhudun Mohammed Manasir
+5 Pichchai Marikkar Mohamed Fahim
+6 Muhammadu Musthafa Muhammadu Farmil
+7 Muhammadu Siddeek Muhammadu Sabrin
+8 Mohammed Thaahir Mohammed Vazeem
+9 Mohamed Thajudeen Mohammed Mukarjeen
+10 Sehoos Kandar Mohammadu Jehir
+11 Haaseem Azeez Asmil
+PARTY: Independent Group 8
+1 Pahalage Siriyalatha
+2 Puhamana Singhage Ruwan Tharanga Fonseka
+3 Bandaranayake Wannithilaka Adikari Mudiyanselage Manjula Shri Aruna Kumara Karunaratna
+4 Bulathsinghala Aarachchige Saumya Niroshani Ekanayake
+5 Manandewage Gamini Fernando
+6 Masawge Ranil Chinthaka Fernando
+7 Marcus Winisius Nicholus
+8 Mihidukulasooriya Joseph Antoney Fernando
+9 Mihidukulasooriya Ridma Tharanga Sanjeewani Fernando
+10 Warnakulasooriya Chanuka Ranith Priyashan
+11 Velayutham Unaneshan
+PARTY: Independent Group 9
+1 Kachchakaduge Dilki Thushara Fernando
+2 Kachchakaduge Rajeev Anton Fernando
+3 Diyunugalle Manusha Deemal Pathinayake
+4 Polpitty Aarachchilage Udara Buddika
+5 Mohomed Yazin Mohommadu Rashmi
+6 Rathugamage Udaya Primal Fernando
+7 Lansakara Pathirannehelage Sumith
+8 Liyana Aarachchige Don Priyantha Jayasiri Gunawardana
+9 Wanasighage Kumarasiri
+10 Wickramaarachchige Sumith Priyantha Appuhami
+11 Wijesinghe Aarachchige Shriyan Anushka Wijesinghe
+PARTY: Independent Group 10
+1 Appuhami Makavita Arachchige Don Hansina Heshani
+2 Nawala Adikarige Anton Kurera
+3 Nissanka Christy Sarath Premalal Mendis
+4 Mahipala Mudalige Pradeep Kelum Paris
+5 Makavita Arachchige Don Romesh Trishan Appuhami
+6 Rajapaksha Mudiyanselage Lalitha
+7 Warnakulasooriya Kasun Mangala Peiris
+8 Warnakulasooriya Chaminda Warnakulasooriya
+9 Warnakulasooriya Chameen Eranga Fernando
+10 Warnakulasooriya Robert Lalindra Fernando
+11 Hettiarachchige Don Neel Ranjith Grasiyanu Samaranayake
+PARTY: Independent Group 11
+1 Adikari Mudiyanselage Sarath Nanda Adikari
+2 Ihala Gamage Sriyani
+3 Deekirikevage Vasantha Susil Kumara
+4 Don Priyantha Gunawardana
+5 Naivala Kankanamalage Palitha Christy Jayalal Appuhami
+6 Palle Gedara Samantha Bandara
+7 Warnakulasooriya Jeevan Brian Fernando
+8 Viraj Grayson Bonipus Calistus
+9 Sujeewa Sampath Chandrasekara Wijemanna
+10 Sehan Maduranga Fernando Aaththachipulle
+11 Serasinghe Mudiyanselage Sujani Nilutha Serasinghe
+PARTY: Independent Group 12
+1 Ilyas Mohamed Surais
+2 Kanagasabai Nadarasa
+3 Jayarathnam Rajaguru Senapathi Hamaldan
+4 Mohamed Nimal Nasmi
+5 Mohamed Surais Fathima Simnas
+6 Samsul Rafioo Mohamed Shahumi
+7 Sahul Hameed Mohamed Rishok
+8 Sivagnanamoorthy Vimalan
+9 Sulthan Abdul Cader Sasrin Raj
+10 Sethy Sanoofa Ilyas
+11 Segu Mohideen Ilyas
+PARTY: Independent Group 13
+1 Kapugamahettiarachchige Jagath
+2 Jayasinghe Aarachchilage Nipuni Sandunika
+3 Jayasekara Aarachchilage Mahesh Janaka Chaminda Jayasekara
+4 De kiri Ke Mudiyanselage Ananda Padmasiri
+5 Biyanvilage Eranga Berny Udayangani Perera
+6 Yakdehige Ruwan Pushpa Kumara Silva
+7 Liyana Arachchilage Susantha Janaka Amarasinghe
+8 Warnakulasooriya Navod Isuranga Thisera
+9 Warnakulasooriya Palitha Edward Thisera
+10 Warnakulasooriya Lihiru Supun Thisera
+11 Sinnaiya Vadivel Pushpakumar
+PARTY: Independent Group 14
+1 Anas Abrar Darik Mohammadu
+2 Abdul Muttalif Mohamed Faiz
+3 Jawfar Mohamed Risvin
+4 Nijamdeed Mohamed Fazil
+5 Mansoor Mohamed Murad
+6 Muhammadu Ali Muhammad Thasir
+7 Mohamed Rafeek Mohamed Shamil
+8 Mohamedu Abdul Raheem Inamul Hassan
+9 Mohamedu Salifu Mohamed Nawfy
+10 Sahul Hameed Mohamed Naleem
+11 Seyyedu Rahumathulla Marikar Mohamed Irshad
+PARTY: Independent Group 15
+1 Edirimanna Arachichilage Sisistha Suranga Silva
+2 Gamage Jude Lionel Fernando
+3 Chandrasekara Herath Hittihamy Koralalage Sudarma Chandrasiri
+4 Martin Hitlar Prasad Sivam
+5 Warnakulasuriya Priyantha Lalith Kumara Fernando
+6 Wijesinghe Hetti Achichi Mudiyanselage Kumarathunga
+7 Habarawa Batuwaththage Kasun Thilina Fernando
+8 Heenatimullage Don Gnanasiri
+9 Herath Hittihamilage Shanaka Kumara
+10 Hewa Kodithuwakkuge Priyankara Kithsisri
+11 Hewa Kodithuwakkuge Priyantha Samansiri
+PARTY: Independent Group 16
+1 Uwais Marikkar Mohamed Akmal
+2 Kathir Marikkar Mohamed Faizar
+3 Thahur Meera Mohamadu Farvees
+4 Mohamed Naseer Mohamed Rifas
+5 Mohamadu Abdul Razak Marikkar Mohamadu Fawsan
+6 Mohamedu Ibrahim Abdul Kalam
+7 Mohamadu Ibraheem Mohamadu Ashik
+8 Mohamedu Sakkariya Mohamedu Thawfeek
+9 Sadakathullah Muhamadu Rijaji
+10 Segu Mohammadu Mohammadu Naseer
+11 Habeeb Mohamedu Farmin
+PARTY: Independent Group 17
+1 Abdul Majidu Najibudeen
+2 Abdul Muththalif Mohamadu Masoor
+3 Abdul Rahuman Muhammadu Jeseem
+4 Abuhanifa Siyanis Mohamed
+5 Ahamadu Neina Marikkar Jaufer Marikkar
+6 Neina Ibrahim Muhammadu Nidal
+7 Neina Muhammadu Muhammadu Muyeen
+8 Mohamed Abdul Rakkeef Mohamed Faslur Rahuman
+9 Mohamadu Nazeer Mohamadu Ilham
+10 Seinul Abdeen Abdul Hadhi
+11 Seiyadu Mohammadu Mohamadu Nuhuman
+PARTY: Independent Group 18
+1 Abeysinghe Herath Mudiyanselage Punchibanda
+2 Udubadana Kusaladhamma Thero
+3 Diyanguge Ananda Jinakantha Madawala
+4 Maggona Gurunnanselage Shanaka Suranjan Fernando
+5 Marasinghe Arachchige Janaka Chaminda Marasinghe
+6 Ruban Rose Juliet Prasida
+7 Warnakulasooriya Rohan Lakmal Fernando
+8 Warnakulasooriya Sunimal Santha
+9 Wickramage Keerthi Wickrama
+10 Weththamuni Muditha Geeth Silva
+11 Herath Mudiyanselage Shantha Kumara Herath
+PARTY: Independent Group 19
+1 Ambagahage Kamal Thushara Fernando
+2 Thiramunige David
+3 Nikawaththa Durayalage Chaminda Piyalsiri
+4 Marasinghe Arachchige Amil Eranga
+5 Ranawaka Haluge Niroshan Dital Fernando
+6 Rajapaksha Pedilage Sampath Awanka Rajapaksha
+7 Lakith Shanaka Ranasinghe Weerasekara
+8 Warnakulasuriya Anton Thilak Sajeewan Fernando
+9 Warnakulasuriya Madhumal Lohitha Peiris
+10 Warnakulasuriya Roshan Palitha Chandana Kurera
+11 Warnakulasuriya Himasara Madhurangi Fernando
+

@@ -1,0 +1,343 @@
+PARTY: Ahila Ilankai Thamil Congress
+1 Ramasamy Sriponarunagiri
+2 Iruthayam Selvakumar
+3 Kanapathippillai Kuhakumararasa
+4 Kunarasa Kunasekaran
+5 Tharumalingam Suresh
+6 Joseph Thevarasa
+7 Lingeswaran Thanujah
+8 Sivalingam Manimohan
+PARTY: Our Power of People Party
+1 Gnananesan Vinitha
+2 Tevon Pyumala Wijekodi
+3 Disanayake Liyana Arachchige Imalka Lakmali
+4 Rathnayake Mudiyanselage Chamila Samanmalie
+5 Roopakshage Mahesh Pushpakumara
+6 Warnakulasooriya Arachchilage Isanka Madhushani Kumari
+7 Subasinghe Pathirannahelage Gayani Iresha Wijedaasa
+8 Herath Mudiyanselage Chamara Weerasinghe
+PARTY: Ilankai Tamil Arasu Kadchi
+1 Rasamanikkam Saanakkiya Rahul Rajapuththiran
+2 Kirushnapillai Thurairasasingam
+3 Kovinthan Karunakaram
+4 Gnanamuththu Srinesan
+5 Navareththinarasa Kamalathasan
+6 Manikkam Uthayakumar
+7 Murugesapillai Gnanapiragasam
+8 Seeniththamby Yogeswaran
+PARTY: Eelavar Democratic Front
+1 Ahileswararasa Ketheeswaran
+2 Rajanathan Pirapakaran
+3 Pathmanathan Sinthujan
+4 Pirapakaran Loorththu Mary
+5 Murugesu Nirosan
+6 Vadivel Pakkiyarasa
+7 Velautham Thevathas
+8 Supiramaniyam Sivananantharasa
+PARTY: United National Party
+1 Abdul Careem Kiyasdeen
+2 Ahamad Mohideen Mohamed Safeer
+3 Kumarasamy Lingarasa
+4 Krishnapillai Paramalingam
+5 Mangala Chitral Senarath
+6 Mohamed Salih Mohamed Shaffie
+7 Sithambaram Karunanithi
+8 Solaman Basil Silvester
+PARTY: Democratic Unity Alliance
+1 Abuththakeer Muhammadhu Mahsoom
+2 Anantharasa Kalaichchelvan
+3 Rasapulenthiran Irasesparan
+4 Meera Saiwu Muhammadhu Safeek
+5 Muhammed Ismail Muhammed Iqbaal
+6 Muhammadhu Sareef Muhammadhu Izzath
+7 Samsudheen Muhammadhu Mafas
+8 Seiyid Abdurrahman Bahussain Seiyid Muhseen Farhan Sakkab Mowla
+PARTY: United Peace Alliance
+1 Alim Muhammad Hizbullah Mahmood Lebbe
+2 Kanesan Suresh
+3 Pillainayagam Pirapa
+4 Basheer Segudawood
+5 Mariyan Vijiliyas
+6 Mohamed Buhary Musammil
+7 Saly Jawahir Saly
+8 Herath Mudiyansalage Weerasekara
+PARTY: Jathika Jana Balawegaya
+1 Umer Khathabu Mohammed Abdullah
+2 Kaggoda Thanthirige Kularatna
+3 Kandasamy Prabu
+4 Krishnagopal Thilaganathan
+5 John Paul Prithiviraj
+6 Thevapody Ravanthiran
+7 Natesan Sunthareasan
+8 Mohamed Ussanar Hareem Rahuman
+PARTY: National Democratic Front
+1 Rasa Rethinam Thevarasa
+2 Iruthayam Silvester
+3 Thampirasa Harithas
+4 Thavarasa Ratha
+5 Balasupiramaniyam Anat
+6 Mahenthiran Puvitharan
+7 Meharasa Niranjan
+8 Sankarappillai Komaleswari
+PARTY: Thamil Makkal Thesiya Kuttani
+1 Kanesamoorthy Kopinath
+2 John Vepdist Fernando
+3 Nadarasa Umesh
+4 Ponnampalam Sivanesasingam
+5 Vaamathevan Sujanthan
+6 Sivalingam Somasuntharam
+7 Suveekaran Nishanthan
+8 Somasuntharam Kanesamoorthy
+PARTY: Thamil Makkal Viduthalai Pulikal
+1 Arumugam Lokesparan
+2 Karthikesu Arasarethinam
+3 Kalithas Jeyavanithasan
+4 Julian Asohan Balasingam
+5 Gnanamuththu Krishnappillai
+6 Poopalapillai Prashanthan
+7 Manikkappody Mangaleswary
+8 Sivanesathurai Chandrakanthan
+PARTY: Tamil United Liberation Front
+1 Arunmolivarman Vetkaratheesan Manikkam Thambimuthu
+2 Kanapathippillai Yogarasa
+3 Kulanthaivel Sivakaran
+4 Thadchanamoorthy Thavarani
+5 Nadarajah Jebarajah
+6 Marinarose Joseppin Chanthirakantha Mahenthiranathan
+7 Shanmuganathan Kuganathan
+8 Sellathambi Meha Rethinam
+PARTY: Frontline Socialist Party
+1 Ahamadhu Levvai Muhamadhu Saali
+2 Isma Levvai Muhamadhu Saali
+3 Kanthasami Kopalapillai
+4 Tharmalingam Kirupakaran
+5 Pathmanathan Jeyaraj
+6 Meerasahibu Muhammadhu Jaseem
+7 Velu Shanmugam
+8 Hiralu Arachchighe Nadisha Sandamali
+PARTY: Sri Lanka Podujana Peramuna
+1 Arunasalam Raveenthiran
+2 Ilayathamby Thavagnanasuriyam
+3 Nagarasa Vishnukanthan
+4 Paramasivam Chanthirakumar
+5 Ponnampalam Dharmendra
+6 Sathasivam Viyalendiran
+7 Suntharampillai Saseenthira Sivakumar
+8 Senathirasa Jeyanantha Moorthy
+PARTY: Sri Lanka Muslim Congress
+1 Ali Zahir Moulana Seiyad
+2 Ahamed Zenulabdeen Naseer
+3 Ahamathu Lebbe Muhammathu Marzook
+4 Muhammathu Farook Muhammathu Shibly
+5 Shahool Hameed Haja Muhaideen
+6 Saburudeen Mohamed Maharifa
+7 Habeebu Lebbe Muhammathu Rifan
+8 Herath Mudiyanselage Priyadarshana Samantha Bandara Abeywikrama
+PARTY: Samagi Jana Balawegaya
+1 Ameer Ali Shihabdeen
+2 Jegatheeswaran Jeyachandiriga
+3 Thiyagarajah Loganathan
+4 Pathmanathan Kesavakumaran
+5 Francis Mahendran
+6 Mahmoodu Lebbai Latheebu
+7 Mohamed Musthaffa Abdul Rahuman
+8 Loganathan Jerushan Nekemiah
+PARTY: Independent Group 1
+1 Abdul Jabbar Fathima Rismiya
+2 Abdul Majeedhu Atham Levvai
+3 Navaratnam Kandeepan
+4 Musthafa Muhammathu Marzook
+5 Muhammathu Thambi Uwais
+6 Muhammathu Hanifa Abdul Nasar
+7 Yasin Wawa Muhammathu Hilmi
+8 Seiyadhu Muhammathu Faleel
+PARTY: Independent Group 2
+1 Abuwaker Ubaidullah
+2 Abdul Careem Kaleel
+3 Kayathu Mohamadu Ansar
+4 Mohamathasanar Rasheedu
+5 Mohamadu Ibrahim Mohamadu Azeem
+6 Mohamadu Ibrahim Mohamadu Niyas
+7 Sarifu Mohamed Nazar
+8 Seynulabdeen Aliakbar
+PARTY: Independent Group 3
+1 Abdul Manaf Muhamed Isaam
+2 Ismail Muhammathu Rafeek
+3 Ismail Muhammathu Sadheek
+4 Muhammathu Ismail Muhammathu Asman
+5 Muhammathu Hanifa Noujath
+6 Muhammathu Hanifa Saboordheen
+7 Ramlan Muhammathu Imran
+8 Seeni Muhammathu Naleem
+PARTY: Independent Group 4
+1 Abul Hasan Mohamed Harees
+2 Alabdeen Ramziya
+3 Ahamed Lebbe Mohamed Basheer
+4 Atham Lebbe Mohamed Ismail
+5 Atham Lebbe Mohamed Jaleel
+6 Mohamed Ibrahim Mohamed Ali Akbar
+7 Mohamed Sareef Mohamed Arafath
+8 Sathaly Nijamdeen
+PARTY: Independent Group 5
+1 Abdul Samad Mahmoothu Lebbe
+2 Aliyar Meerasaibu
+3 Aliyar Mohamed Rafeed
+4 Ahamed Lebbe Sameem
+5 Kassim Bawa Sahul Hameed
+6 Meerasahibu Mohamed Farook
+7 Shahabdeen Mohamed Thawfeek
+8 Hayathu Mohamed Kalandar Bawa
+PARTY: Independent Group 6
+1 I.Ishaak
+2 I.T.Abdul Cader
+3 M.N.Muhamad Muhaideen
+4 M.Muhammad Rikan
+5 S.M.Razaak
+6 A.S.Muhammad Faizar
+7 A.Muhammathu Jiffry
+8 K.Saleem
+PARTY: Independent Group 7
+1 Abedeera Veerawarna Patabandige Dayawathi
+2 Amith Gamage
+3 Aluth Patabandige Somawathi
+4 Juwana Hannandige Nandalatha
+5 Juwana Hannadige Andreas Appu
+6 Nuwanth Udeshika Medagama
+7 Bodha Hannadighe Nelka Priyadharshani
+8 Liyana Arachchige Ranjani
+PARTY: Independent Group 8
+1 Uruthiramoorthi Vijithan
+2 Jeyathevan Jeron
+3 John Neumon Sarack
+4 Natkunam Suhirthan
+5 Namachivayam Vimalanathan
+6 Poopalappillai Indran
+7 Sivagnanapprahasam Anojah
+8 Stanislos Theophilus
+PARTY: Independent Group 9
+1 Abdul Majeedu Muhammed Firthows
+2 Asanar Muhammed Thasleem
+3 Meeralevvai Muhammadu Abdul Kanee
+4 Muhammadu Ismail Abdul Salam
+5 Muhammadu Hanifa Muhammadusivaan
+6 Muhammadu Kamsa Ansar
+7 Sakkaab Mubarak
+8 Sinna Levvai Muhammadu Unais
+PARTY: Independent Group 10
+1 Iyaththurai Kathiramaththampi
+2 Alahaiya Kanthasami
+3 Alvis Castro Speck
+4 Kathirkamathampi Rasalingam
+5 Kanthamoorthy Jeyapiragash
+6 Thangarasa Varatharasa
+7 Varnakulasingam Kamalathaas
+8 Viththiyavathi Muralitharan
+PARTY: Independent Group 11
+1 Anvar Rahuman Muhammadhu Siyam
+2 Udhuma Levvai Rafeek
+3 Paikkeer Muhaideen Muhammadhu Irshath
+4 Paikkeer Muhaideen Muhammadhu Nawaas
+5 Muhammadhu Ibraheem Abdul Aleem
+6 Muhammadhu Yoosooppu Muhammadhu Sareepu
+7 Mohideen Abdul Cader Mohidheen Muhsin
+8 Sulaima Levvai Makbool
+PARTY: Independent Group 12
+1 Abdul Cader Mohamed Munawfer
+2 Abdul Majeed Aboothahir
+3 Kalanthar Lebbe Akil Arsath
+4 Karalasingam Thavaharan
+5 Kaseem Issadeen
+6 Mohamed Ali Mohamed Ameen
+7 Mohamed Sareef Halaldeen
+8 Shahabdeen Mohamed Izzadeen
+PARTY: Independent Group 13
+1 Muhammathu Subair Muhammathu Rahmi Subair
+2 Muhammathu Abdul Cader Thilshath Ahamad
+3 Muhammathu Abdul Cader Muhammathu Mafas
+4 Muhammathu Abdullah Muhammathu Kumail
+5 Muhammathu Ismail Muhammathu Imraas
+6 Muhammathu Musthafa Muhammathu Ruhail
+7 Mohamad Husain Mohamad Nipraas
+8 Sulaiumalevvai Mounaththu Rahuman
+PARTY: Independent Group 14
+1 Ismail Badiyudeen
+2 Kachchi Muhammadhu Abdul Rasaak
+3 Jamaltheen Muhaidheen
+4 Muhammadhu Ibraheem Nasrudheen
+5 Muhammathu Ibraheem Siddeek
+6 Muhammadhu Hussaiyeen Siddeek
+7 Muhammathuththambi Thasthakir
+8 Sameem Muhamad Ishaak
+PARTY: Independent Group 15
+1 Abdul Rassak Muhammathu Razith
+2 Abdullah Muhammathu Minhath
+3 Ashraf Anwar Sathath
+4 Ahamathu Lebbe Muhammathu Anwar
+5 Ahammathu Lebbe Abul Hasan
+6 Athamlebbe Ahamath Muflih
+7 Kamartheen Hajiyar Abdul Wajith
+8 Sahul Hamithu Imthiyas
+PARTY: Independent Group 16
+1 Asanar Muhammathu Asmy
+2 Meerasyaib Lafir
+3 Muhammathu Ismail Abdul Rahuman
+4 Muhammadhu Ismail Ahamed Kabeer
+5 Muhammathu Saithu Muhammathu Safras
+6 Mohommed Jawfar Mohamed Riyas
+7 Saali Muhammathu Muhammathu Mubeen
+8 Seeni Muhammathu Makuboor
+PARTY: Independent Group 17
+1 Abdul Cader Muhammathu Saleem
+2 Abdul Majeethu Abdul Sattar
+3 Asanar Naasar
+4 Ahamadhu Meera Saaivu Hajiyar Muhammathu Unais
+5 Kayaththu Muhammathu Nijamdeen
+6 Cader Abdul Wahaab
+7 Muhammad Hasan Muhammad Jiffry
+8 Yoosuf Nawaash
+PARTY: Independent Group 18
+1 Thampirasa Thajivaran
+2 Thiyagarasa Ranjithkumar
+3 Nadarasa Vinotharan
+4 Balasuntharam Umesh
+5 Muhammed Mihlaar Muhammed Hansheer
+6 Yogarasa Satheesh
+7 Rajareththinam Jiniththirarasa
+8 Sinnarasa Srikanth
+PARTY: Independent Group 19
+1 Eramlan Muhammed Ruzwin
+2 Jamaldheen Muhammadhu Munafeer
+3 Meerashaib Muhammathu Lareefu
+4 Meerashaibu Haroon
+5 Muhammadhu Ismail Ahamad Lebbei
+6 Muhammadhu Musthafa Muhammadhu Natheer Zhihri
+7 Muhaidheen Pichchai Muhammadhu Ashmi
+8 Seinulabdheen Muhammadhu Askar
+PARTY: Independent Group 20
+1 Abdul Cader Mohamed Razwin
+2 Abdul Nazeer Abul Lise
+3 Ilyas Mohamed Rikkas
+4 Jamaldeen Mohamed Fazil
+5 Jalaldeen Mohamed Riyas
+6 Muhammadabdul Cader Niyasdeen
+7 Mohammadu Haneefa Muhammadu Razool Haq
+8 Hanifa Muhammadu Ramzan
+PARTY: Independent Group 21
+1 Abu Thahir Muhammathu Janoos
+2 Abdul Laththeef Ahamathu Husaam
+3 Aatham Levvai Abdul Wajith
+4 Kachchi Muhammathu Abdul Habbar
+5 Kareem Manaftheen
+6 Pichchaikkutty Naleemdeen
+7 Meerasahib Muhammed Rifas
+8 Saltheen Muhamed Azeem
+PARTY: Independent Group 22
+1 Ampitiye Sumamarathana Thero
+2 Thiththa Pajjala Malleve Gedara Roshan Tharaka Rajapaksha
+3 Devalegama Kusalaananda Thero
+4 Balapitiya Liyanage Sajith Madhushanka
+5 Balaboduwage Dilshan Sashika Suranga
+6 Malporu Mudiyanselage Buddhika Udayanga
+7 Saravanan Abishalini
+8 Hiththattiya Lokugamage Dammikaa Kumari Rathnayake
+

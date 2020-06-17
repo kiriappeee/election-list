@@ -1,0 +1,419 @@
+PARTY: United National Party
+1 Akila Viraj Kariyawasam
+2 Ajith Senanayake
+3 Amarasinghe Arachchige Mangalasiri Amarasinghe
+4 R.M.V.P.B. Hangilipola
+5 Arachchige Wickremanayaka Mohan Sujeewa Wickremanayake
+6 Udaya Wijayanayake
+7 Edirisinghe Mudiyanselage Ranil Edirimanna
+8 M.S. Sahabdeen
+9 Ekanayaka Mudiyanselage Udeni Pushpa Shantha
+10 T.M.H.B. Thennakoon
+11 Nuwarapakshage Lalith Ravindra Kumara
+12 Balasooriya Mudiyanselage Dhanushka Maduranga Balasooriya
+13 Bharatha Thennakoon
+14 Mudalige Sunil Ranjith Wijethunga
+15 Ranjith Dias Abeywickrama Gunasekera
+16 Wanigasundara Hitihami Koralalage Nandana Siri Wanigasundara
+17 Victor Kumara Charles Herath
+18 Herath Mudiyanselage Niral Sanjika Kaluhendiwala
+PARTY: Jana Setha Peramuna
+1 Amila Pethum Herath
+2 Asanka Sri Lal Jayarathna
+3 M. Herath
+4 Kasun Madhuranga Senevirathna
+5 Galgamuwe Dhammadassi Thero
+6 Chandana Thushara Sampath
+7 Janaraja Silva
+8 Nalinda Bandara
+9 Nishantha Pushpakumara
+10 Palitha Pushpa Kumara
+11 Melan Madhusankha
+12 Mohan Chethiya
+13 Rasika Sadaruwan
+14 Saliya Priyadarshana
+15 Sisira Senevirathna
+16 Sujith Athula Kumara
+17 Sunil Wijerathna
+18 Subhoda Namal Gamage
+PARTY: Jathika Jana Balawegaya
+1 R.M.H.G. Nilantha Bandara
+2 R.P.D. Nirosh Janaka Pathirana
+3 H.M.P. Rathnayaka
+4 M.W.P. Damian Rohitha Fernando
+5 A.D. Sumanadasa
+6 K.M. Ananda Wijepala
+7 K.S. Mohomed Safran
+8 G.B.M. Mahinda Moragolla
+9 W.A. Chandani Samanthi Kumari Karunathilaka
+10 W.W. Nevil Thisera
+11 D.M. Dharmapriya Dissanayaka
+12 D.M. Wasantha Dissanayaka
+13 D.M. Sujeewa Indika Dissanayaka
+14 Namal Karunarathna
+15 P.M. Wickramarathna
+16 P.P. Mahanama Gunasena
+17 Bandula Samarawickrama
+18 C.M. Dilip Kumara Chandrasekara
+PARTY: National Democratic Front
+1 Aththanayaka Mudiyanselage Suranga Srilal Aththanayaka
+2 Ekanayaka Mudiyanselage Gihan Harinda Ekanayaka
+3 Kasthuri Arachchilage Rohan Pradeep Kumara
+4 Kuruneruge Sujith Rohan Kuruneru
+5 Kooragama Arachchilage Kokila Anushan Siriwardhana
+6 Gamaralalage Amila Priyankara
+7 Gamini Sunil Weerasingha
+8 Jayakody Arachchilage Susil Wickramasingha
+9 Dissanayake Mudiyanselage Thusitha Chandrathilake
+10 Pilippenge Sandun Pradeep Hemachandra
+11 Bolepe Arachchilage Gedara Wijesingha
+12 Rathnayaka Mudiyanselage Hemachandra Rajakaruna
+13 Liyana Arachchillage Indunil Bandara Liyanaarachchi
+14 Wickrama Achchi Appuhamillage Kasun Nandika Wickramasingha
+15 Hegoda Gamage Jude
+16 Hitihamillage Buddhika Prasanjith Somadasa
+17 Heendeniya Pathirannehelage Kamal Heendeniya
+18 Herath Mudiyanselage Chalana Nilupul
+PARTY: Jathika Sangwardhena Peramuna
+1 Aluthgedara Chandana Sri Pushpa Kumara
+2 Ihala Gedara Ajith Premasinghe
+3 M.M.G.B. Jayawickrama
+4 Ekanayake Mudiyanselage Kalpa Dasun Abekoon
+5 Kapuruhamy Gamaralalage Iresha Geethanjalee Hemarathna
+6 Gettuwangedara Lalith Weerasundara
+7 Chithra Waduge Karunarathna
+8 Pahala Gedara Chamara Sameera Jayarathna
+9 Pujapitiye Gedara Ravindra Udesiri Gunarathna
+10 Batagalle Gedara Pathma Kumari
+11 Meddege Ralalage Sunanda Wijebandara
+12 Waththe Pathirannehelage Nishantha Bandara Pathirana
+13 Weerawasala Hemanthage Priyantha Weerawasala
+14 Welendra Mulacharige Kusumawathie
+15 Welendra Mulacharilage Karunadasa
+16 Sirisenage Premalal Chandrasiri
+17 Sembakutti Vidanelage Dharmarathna
+18 Somapalage Harshani Dimasha Sathsarani
+PARTY: Frontline Socialist Party
+1 Adhikari Mudiyanselage Sebastian
+2 Amarathunga Arachchige Sriyadasa
+3 Elpenerisge Ananda Sagara Alwis
+4 Ilangaran Pedige Keerthirathna
+5 Uduwe Vidanalage Dona Lalani Renuka
+6 Kalarachchilage Nishantha Kumara
+7 Kuda Vidanage Nimal Jayathilaka Silva
+8 Thanippuli Hewage Munasingha
+9 Malavi Arachchi Kankanamge Sujith Jayantha
+10 Marasingha Arachchige Dushan Pradeep Kumara
+11 Rathnayaka Mudiyanselage Dayalal
+12 Rajamuni Devayalage Sugath Madushanka Rajamuni
+13 Withanage Senadheera Gunathilaka
+14 Sitta Durayalage Sarath Wickramarathna
+15 Suppaiya Rames
+16 Subhasingha Appuhamilage Geethamali Subhasingha
+17 Herath Mudiyanselage Jayasena
+18 Herath Mudiyanselage Sandarathna Herath
+PARTY: The Liberal Party
+1 Anura Samarajeewa
+2 I.M.M. Ilankoon
+3 H.M.N. Ranasingha
+4 H.M.C. Herath
+5 H.D.A.S. Rathnayaka
+6 M.H.M. Hazmeer
+7 M.M. Wijerathna
+8 M.A.M. Akram
+9 M.A. Nishamdeen
+10 M.T.M. Asad
+11 M.W.L. Muthunayaka
+12 S.A.M. Badurdeen
+13 S.D. Senarathna
+14 A.G.D.P. Pathirana
+15 K.V.D.T. Buddhika
+16 G.G.S.H. Kumari
+17 T.M.D. Dushmantha
+18 B.N. Bandara
+PARTY: Sri Lanka Labour Party
+1 Adikari Mudiyanselage Gunathilaka
+2 Edirisinghe Arachchilage Chamindra
+3 Karunanayaka Athukoralalage Aloka Sri Kantha
+4 Karunanayaka Mudiyanselage Wickramasinghe
+5 Kotagama Naidelage Ashoka Piyathissa
+6 Galolu Mudiyanselage Chandana Pushpa Kumara
+7 Galagama Arachchige Chandana Kapila Kumara
+8 Thammita Arachchige Abesumana
+9 Dasanayake Mudiyanselage Manjula Dasanayake Bandara
+10 Nayakarathna Mudiyanselage Chandrasekara
+11 Nayakarathna Mudiyanselage Priyantha Janaka Bandara
+12 Pathirajage Kaman Sanjeewa Wijayarathna
+13 Balasuriya Arachchige Nandana Balasuriya
+14 Lansakara Mudiyanselage Sanjeewa Kumara Walakulpola
+15 Warnasuriya Mudiyanselage Akalanka Sandeep Warnasuriya
+16 Weesinghe Mudiyanselage Sujeewa Mangala Upulsiri
+17 Hitihamillage Ajitha Senarath Kumarasinghe
+18 Hetti Kankanamlage Palitha Priyankara Siriwardhana
+PARTY: Sri Lanka Podujana Peramuna
+1 Adikari Mudiyanselage Tikiri Bandara Adikari
+2 Anura Kamal Perera
+3 Anura Priyadarshana Yapa
+4 Asanka Samithajeewa Navarathna
+5 A.M. Somasiri Gunathilaka
+6 R.M. Sumith Rajapaksha
+7 R.D. Wimaladasa
+8 Udukumburage Sumith
+9 H.M. Samanpriya Herath
+10 Ekanayaka T.B.
+11 Jayarathna Herath
+12 Jhonston Fernando
+13 D.B. Herath
+14 Dayasiri Jayasekara
+15 Basnayaka Mudiyanselage Dilhan Tharanath Basnayaka
+16 Basnayaka Yasarathnalage Gunapala Rathnasekara
+17 Mahinda Rajapaksha
+18 Shantha Bandara
+PARTY: Socialist Party of Sri Lanka
+1 Andawalage Prasanjith Jayarathna
+2 R.H.M.S.P. Rajakaruna
+3 R.M. Samantha Upul Rathnayaka
+4 Anas Mohomed Imitiyas
+5 L.A. Nirasha Premasiri
+6 L.A. Harshana Thushan
+7 A.D. Dayarathna
+8 A.V. Indika Prabhath Kumara
+9 Kurugamage Chamila Deepani Perera
+10 Chandana Ellewela
+11 Juliyasge Nadeera Lakshan
+12 Juliyasge Wimal Priyantha
+13 D.M. Asela Dharmapriya Dissanayaka
+14 Thennakoon Mudiyanselage Ajith Thennakoon
+15 Nellihamige Buddhika Deshapriya Bandara
+16 P.A. Dilrukmal
+17 Wariyapolalegedara Lakshika Kumari Wariyapola
+18 Sivalingam Shanmuganadan
+PARTY: Samagi Jana Balawegaya
+1 Aaja Jawaharsa Mohamad Risvi
+2 Ajith Rohana Devatha Pejjalage
+3 Athapaththu Mudiyanselage Sumith Bandara Athapaththu
+4 Adikari Mudiyanselage Piyasoma Upali
+5 Amarasinghe Arachchige Preethi Mohan Perera
+6 Amarasena Thushara Indunil
+7 Alawathuwala J.C.
+8 Ashoka Abeysinghe
+9 Asanga Perera
+10 S.R. Weerasinghe
+11 A. Don Kamal Indika
+12 Indika Bandaranayaka
+13 Edirisinghe Dewage Lionel Chandrawansha
+14 Nalin Bandara Jayamaha
+15 Bandaranayaka Mudiyanselage Bandula Priyantha Bandaranayaka
+16 Mohommadu Nazeer Nazeer
+17 Rookantha Gunathilaka
+18 Vipula Mahavidanage Gunarathna
+PARTY: Sinhaladeepa Jathika Peramuna
+1 Alagiyawanna Mohottilage Thilini Navoda
+2 Imihamy Mudiyanselage Darshana Aruna Bandara Kumbukwewa
+3 Karisim Pathirennehelage Chinthaka Saman Kumara
+4 Jayantha Liyanage
+5 Dissanayaka Mohettalalage Deepika Priyadarshani Dissanayaka
+6 Dissanayaka Mohottalalage Dushyantha Dissanayaka
+7 Porakara Mudiyanselage Wasantha Pushpa Kumara
+8 Manikku Acharige Indika Mangalani Karunarathna
+9 Manikku Acharige Mihidu Mangala Karunarathna
+10 Moratuwage Sanjeewa Sisira Kumara
+11 Yodhasingha Pathiranage Sugath
+12 Rathnayaka Mudiyanselage Isuru Piyumantha Rukshan Wijerathna
+13 Rathnayaka Herath Mudiyanselage Lakshan Sridhara Rathnayaka
+14 Rasnayaka Mudiyanselage Dingiribanda
+15 Wanshath Peramuna Rajapaksha Mudiyanselage Wimal Jayantha Rajapaksha
+16 Warnakulasuriya Mudiyaselage Anoma Damayanthi
+17 Waharagamag Nalin Sanjaya
+18 Hathurusingha Dewage Chaminda Siriwardhana
+PARTY: Independent Group 1
+1 R.M.R. Bandara
+2 R.D. Mahinda Wasantha Kumara
+3 E.R.D. Duminda Ekanayaka
+4 H.R. Hasanthi Prabuddhika Herath
+5 N.G.S.L. Priyadarshana
+6 M.D. Wickrama Kularathna
+7 A.K.D. Chaminda Wimal Senadheera
+8 A. Shantha Kalyani
+9 K.A. Gayan Madhusanka
+10 K.G. Hansika Dulanjani Jayawardena
+11 K.W.C. Amal Gnanarathna
+12 K.B.A. Sameera Nayanatharanga Jayathilaka
+13 T.M.G.B. Thennakoon
+14 P.P. Isuru Sandaruwan
+15 P.P. Umantha Sanjeewa Ekanayaka
+16 U.K. Yasiru Sachinthana
+17 Y.W.S.S. Amaratunga
+18 Y.W. Kapila Kumara Amaratunga
+PARTY: Independent Group 2
+1 Arthanayaka Mudiyanselage Chamath Yudheesha Arthanayaka
+2 Imihami Thennakoon Mudiyanselage Wanshanatha Rohitha Bandara
+3 Kanampella Kankanamalage Chaminda Ajith Amarajeewa
+4 Gamage Anura Ranjith Perera
+5 Jayamanna Mohotti Thennakoon Mudiyanselage Bosen Bandara Thennakoon
+6 Jayasooriya Mahathelge Jayamanna Pieris
+7 Dasanayaka Mudiyanselage Kavinda Mahipala Dasanayaka
+8 Narasinghe Kesara Banadaralage Indika Samantha Bandara Narasinghe
+9 Muthunayaka Pedige Kumarasinghe
+10 Mohamadu Riyal Mohamed Rasan
+11 Ranasinghe Achchillage Sumanarathna Ranasinghe
+12 Ranthilaka Durayalage Janitha Madhushan Ranthilaka
+13 Rajapaksha Durayalage Gnanawansa
+14 Wijendra Patabendi Muhandiramalage Nihal Karunananda
+15 Surage Ramal Ashoka Kumara
+16 Senanayaka Pathirannehelage Thusitha Sampath Senanayaka
+17 Herath Mudiyanselage Kulasinghe Herath
+18 Hewagam Koralaye Liyana Arachchige Sajith Mahendra Perera
+PARTY: Independent Group 3
+1 Ahamadu Lebbe Muhammadu Ramsan
+2 Ellala Goda Gamage Sunil Kumara Dayawansha
+3 Udagedara Chandima Suranga Wickramarathna
+4 Egoda Deniye Gedara Lionel Thusantha Kumara
+5 Katugampola Gedara Dissanayaka
+6 Kannadeniya Muhamdiramalage Sanjeewa Sampath Warnasooriya
+7 Karuna Durayalage Kasun Madhusanka Jayawickrama
+8 Thalkoth Durayalage Indika Prasanna Gunasekara
+9 Thennakoon Mudiyanselage Nishantha Kumara Thennakoon
+10 Panikka Weerayalage Chinthaka Jayalath Weerasekara
+11 Muthunayakage Ranjan Pushpa Kumara
+12 Muthunayaka Pedige Wickrama Pushpa Kumara
+13 Ranasingha Gedara Heshan Manoj Rupasingha
+14 Rajamunige Indunil Roshan Kumara Rajamuni
+15 Wariyapperuma Appuhamilage Amila Ruwan Kumara
+16 Herath Mudiyanselage Gayan Bandara Herath
+17 Herath Mudiyanselage Sanjeewa Kumara Herath
+18 Horathalge Iresha Samanmali
+PARTY: Independent Group 4
+1 Abeweera Mirissa Patabendige Tharindu Nimanthaka
+2 Udage Arachchillage Susantha Senevirathna
+3 Karunapedi Durayalage Sudath Ananda Danapala
+4 Kasthuri Mudiyanselage Saman Bandara Kasthuri
+5 Kotagedaralage Ajith Lal
+6 Gunasenalage Sugath Somasiri
+7 Chandrasekara Bandaranayake Jayasekara Karunadhipathi Mudiyanselage Ajith Neranjana Yatawara
+8 Chinthana Gardiye Punchihewa
+9 Jayasuriya Arachchige Nalinda Srilal Jayasuriya
+10 Dissanayake Arachchilage Ajith Rohana Chandrasiri
+11 Dissanayake Mudiyanselage Vajira Bandara Dissanayake
+12 Navarathna Henayalage Amila Ranaba Navarathna
+13 Pulhiri Henayalage Sampath Wickramasiri Navarathna
+14 Ranhoti Pedi Durayalage Ajith Somakumara
+15 Rathnayake Mudiyanselage Chanaka Aravinda Rathnayake
+16 Lekamalage Ananda Jayasinghe
+17 Waduvidanalage Gedara Ruwan Chamara Bandupala
+18 Handurugamage Manoj Shanuka
+PARTY: Independent Group 5
+1 R.M.J. Bandara
+2 N.S.P. Nishshanka
+3 M.A.B.N. Hettiarachchi
+4 S.D.S.L. Samaraweera
+5 A.H. Nimal Kularathna
+6 A.G.C. Rathnayaka
+7 A.C.U. Kumara Jayalath
+8 K.A. Padmachandra
+9 G.H.U.S. Wijerathna
+10 J.M. Pemarathna
+11 J. de S.A. Gunasekera
+12 J.C.K. Indipalage
+13 T.M.D.K. Thennakoon
+14 W.R. Pushpakumara
+15 W.R.A.R.D. Ranasinghe
+16 D.S. Jayarathna
+17 D.C. Ranasinghe
+18 P.P. Padmakumar
+PARTY: Independent Group 6
+1 Aththanayaka Mudiyanselage Senarath Jayanada
+2 Irugal Bandaralage Anuruddha Shashika Kumara
+3 Kalingu Arachchilage Vikum Dulanjana Madhushanka Rathnayake
+4 Konara Mudiyanselage Shaluka Nirman Bandara
+5 Dissanayaka Mudiyanselage Amila Prasad
+6 Dissanayaka Mudiyanselage Lakmal Kumara
+7 Don Prasanna Abewardhana
+8 Don Wengappulige Thushan Shandheel Abeywardhane
+9 Basnayaka Wasala Mudiyanselage Isuru Piyuman Bandara
+10 Mahagamage Ishara Sampath Jayathissa
+11 Marasinghe Mudiyanselage Aruna Jayantha Marasinghe
+12 Muthugalage Sumudu Rashmika Fernando
+13 Rangadhipathige Dhanushka Jeevantha
+14 Rathnayaka Mudiyanselage Indika Bandara Rathnayaka
+15 Rathnayaka Mudiyanselage Chaminda Suresh Chandrasena
+16 Wijesundara Mudiyanselage Dhananja Bandara Wijesundara
+17 Samarasinghe Arachchilage Sudheera Kulathunga
+18 Senanayaka Mudiyanselage Gemunusiri
+PARTY: Independent Group 7
+1 Anuradha G.P.
+2 I.M. Malalasekera
+3 E.M.P.R.H. Hulugalla
+4 H.M. Aruna Gnanasiri Herath
+5 H.M.C. Basnayaka
+6 H.A. Priyantha Sisira Kumara
+7 H.P.K.B. Meegolla
+8 H. Pulasthi Herath
+9 H. Lalith Ariyadasa
+10 N.A. Sunil Jayarathna
+11 M.H.D. Harischandra
+12 M.D.R.N. Kularathna
+13 A.R.M. Rangana
+14 K.M.C. Senevirathna
+15 J.A. Jayasooriya
+16 W.D. Sunil Padma Somarathna
+17 Thilakarathne B.M.
+18 B.A. Jinapala Amarasinghe
+PARTY: Independent Group 8
+1 Athapaththu Mudiyanselage Prasanna Sri Athapaththu
+2 Adasuriya Mudiyanselage Ruwan Rathna Bandara Gunasekara
+3 Kalu Aggalage Shaluka Nadiranga Anushka Hemachandra
+4 Jayawardana Mudiyanselage Supun Lakshitha Jayawardana
+5 Thennakoon Mudiyanselage Chathumi Dhanushka Thennakoon
+6 Thennakoon Mudiyanselage Dilan Chandana Raj Thennakoon
+7 Devapura Hunuge Susantha Kumara
+8 Nungamu Ralalage Athula Kumara Gunawardhana
+9 Pathiranage Saumya Geethanjana Karunadasa
+10 Balasooriya Mudiyanselage Ranjith Balasooriya
+11 Rajaguru Mudiyanselage Senajith Bandara Hunukumbura
+12 Rajapaksha Pathirajage Nalinda Niroshan Rajapaksha
+13 Wasala Mudiyanselage Nadeeka Niroshini Bandara
+14 Sri Narayana Bamunu Mudiyanselage Saman Kumara Sri Narayana
+15 Hettiarachchillage Sajith Lakmal Hettiarachchi
+16 Herath Mudiyanselage Gayan Kumara Herath
+17 Herath Mudiyanselage Jayanthi Mala Kumari Herath
+18 Herath Mudiyanselage Nawarathna Herath Menike
+PARTY: Independent Group 9
+1 Imihami Mudiyanselage Anura Bandara
+2 Ilankoon Mudiyanselage Rasika Kumara Ilankoon
+3 Kalukumara Mudiyanselage Damith Nishantha Kumara
+4 Kurukula Arachchige Priyantha Chandana Dissanayaka
+5 Godigamuwage Chandradasa
+6 Jayasundara Ekanayaka Mudiyanselage Kasun Bandara Ekanayaka
+7 Dasanayaka Gunarathna Basnayaka Mudiyanselage Salinda Saman Bandara
+8 Dasanayaka Mudiyanselage Malika Bandara Chandrasekera
+9 Mandalawalli Achchilage Sugathapala
+10 Madduma Pathirannehelage Neluka Nishanthi
+11 Meddegoda Herath Mudiyanselage Madhushani Shehara Herath
+12 Muthugalage Dunston Priyantha Mathupala
+13 Muhammadu Hanipa Muhammadu Nisair
+14 Yapa Appuhamilage Gunathilaka Yapa
+15 Rathnahaluwale Premarathna
+16 Wedakara Gedara Lional Sarath Kumara Fernando
+17 Sinhala Pedige Susantha Sarathchandra
+18 Herath Mudiyanselage Saman Bandara
+PARTY: Independent Group 10
+1 Athapaththu Mudiyanselage Dilki Ishara
+2 Athapaththu Mudiyanselage Priyantha Kumara
+3 Ekanayaka Mudiyanselage Bavantha Manuranga
+4 Karunanayaka Mudiyanselage Chandrawathie
+5 Kodagoda Delapalagei Sarath Kumara
+6 Ginimal Bandaralage Vikum Nayanajith
+7 Dissanayaka Mudiyanselage Jayantha Kumara
+8 Mapa Mudiyanselage Wathsala Madhumali Mapa
+9 Rathnayakage Don Dhammika Anurasiri Rathnayake
+10 Rajaguru Mudiyanselage Dambaliyadde Rambanda Rajaguru
+11 Wijesekera Mudiyanselage Priyantha Kumarasiri
+12 Weerawardhana Rathnayakage Chathuka Chamod
+13 Haddrapitiya Mudiyanselage Ushan Isuru
+14 Herath Mudiyanselage Upali Herath
+15 Herath Mudiyanselage Jayathissa Bandara
+16 Herath Mudiyanselage Jayarathna Bandara
+17 Herath Mudiyanselage Muthubanda Herath
+18 Herath Mudiyanselage Suranga Indika Kumara
+
