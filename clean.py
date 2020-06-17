@@ -6,7 +6,7 @@ candidate_lists = os.listdir('./lists')
 candidates = {}
 number_of_candidates = 0
 p = re.compile('^\d+ ')
-for candidate_list in candidate_lists:
+for candidate_list in sorted(candidate_lists):
   district_number, district_name = candidate_list.split('_')[:2]
   details = open(f'./lists/{candidate_list}', 'r').read().strip()
   lines = details.splitlines()
